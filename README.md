@@ -1,6 +1,6 @@
 # FANTAWEB3
 
-**Deployed Url:** [Fantaweb3](https://fantaweb3-frontend.onrender.com/)
+**Deployed Url:** [Fantaweb3](https://fantaweb3-frontend.onrender.com/) (Serverless it may be down if nobody use it)
 
 Fantasy football game built using Next.js for both backend and frontend, integrating with the Web3 network to manage user funds and enable autonomous play and earning.
 
